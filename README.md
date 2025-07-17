@@ -4,16 +4,6 @@ A Python-based tool to analyse web server access logs for suspicious behaviour, 
 
 ---
 
-## Project Structure
-ieuk-task-2025-main/
-├── log_analyser.py # Main script for log parsing and analysis
-├── sample-log.log # Sample access log file
-├── parsed_logs.csv # Optional CSV output of structured logs
-└── README.md # Documentation and usage instructions
-
-
----
-
 ## How to Run
 
 ### Requirements
